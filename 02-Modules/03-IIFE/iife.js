@@ -1,7 +1,7 @@
-(function() {
-    console.log("Hello World!");
-})();
+(function(greet) {
+    console.log(greet, "World!");
+})("Hello");
 
-(function() {
-    console.log("Hello Me!");
-})();
+(function(greet) {
+    console.log(greet, "Me!");
+})("Hello");
