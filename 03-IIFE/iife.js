@@ -3,5 +3,5 @@
 })("Hello");
 
 (function(greet) {
-    console.log(greet, "Me!");
-})("Hello");
+    console.log("Hello Me!");
+})();
