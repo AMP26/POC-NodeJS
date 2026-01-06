@@ -4,4 +4,4 @@
 
 (function(greet) {
     console.log("Hello Me!");
-})();  
+})(); 
